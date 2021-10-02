@@ -2,7 +2,7 @@
 
 API Portal lets you create and publish a customized site with API documentation, for free and without writing any code. GitHub-based workflow enables collaboration between API providers and API consumers, source control, automation, and free hosting.
 
-[See the demo of a published API portal](https://aka.ms/apiportal/demo).
+See the demo of a published API portal: https://masoudsoleymani.github.io
 
 ![API Portal](readme.gif)
 
